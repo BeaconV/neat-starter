@@ -1,7 +1,7 @@
 links:
-  - title: Decap CMS
-    url: https://decapcms.org/
-    desc: Open source content management for your Git workflow
+  - title: British National Formulary
+    url: https://bnf.nice.org.uk/
+    desc: Key information on the selection, prescribing, dispensing and administration of medicines.
   - title: Eleventy
     url: https://www.11ty.dev/
     desc: Eleventy is a simpler static site generator.
